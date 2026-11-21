@@ -1,6 +1,6 @@
-💫Hi 👋, I'm Vinay Kumar Gautam 
+#💫Hi 👋, I'm Vinay Kumar Gautam 
 Cyber security analyst || Ethical Hacker 
-# 💫 About Me:
+💫 About Me:
 🔭 **I’m currently working on:** Cybersecurity projects, including phishing URL detection and security tools using Python and C++.<br><br>👯 **I’m looking to collaborate on:** Cybersecurity, ethical hacking, and open-source projects.<br><br>🤝 **I’m looking for help with:** Improving my practical cybersecurity skills and gaining real-world industry experience.<br><br>🌱 **I’m currently learning:** Network Security, Ethical Hacking, Threat Intelligence, SOC Operations, and Incident Response.<br><br>💬 **Ask me about:** Cybersecurity basics, Python, C++, Networking, and Programming.<br><br>⚡ **Fun fact:** I enjoy exploring how cyberattacks work and finding ways to prevent them!
 
 
